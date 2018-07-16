@@ -8,3 +8,7 @@ The demo is broken up into 4 sections:
   + Weight based traffic shifting
 * Security Demo
   + Istio RBAC
+* Telemetry Demo
+  + Jaeger Query UI
+  + Grafana
+  + Adding custom metrics
