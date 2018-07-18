@@ -11,4 +11,3 @@ The demo is broken up into 4 sections:
 * Telemetry Demo
   + Jaeger Query UI
   + Grafana
-  + Adding custom metrics
